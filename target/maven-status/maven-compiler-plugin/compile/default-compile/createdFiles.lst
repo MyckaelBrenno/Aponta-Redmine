@@ -1,0 +1,5 @@
+botservice\ApontaHoras.class
+botservice\BotService.class
+botservice\FileDiscord.class
+botservice\IssuesDTO.class
+botservice\ModuleUtils.class
